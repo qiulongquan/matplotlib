@@ -17,4 +17,13 @@ MATLAB，它是一种用于算法开发、数据可视化、数据分析以及�
 其他 2D 图形
 3D 图形
 
+
+#-*- coding: utf-8 -*-
+from matplotlib import pyplot as plt
+plt.rcParams['font.sans-serif']=['SimHei'] #用来正常显示中文标签
+plt.rcParams['axes.unicode_minus']=False #用来正常显示负号
+#有中文出现的情况，需要u'内容'
+
+# python matplotlib 中文显示参数设置
+# https://segmentfault.com/a/1190000005144275
 ```
