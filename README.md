@@ -8,6 +8,8 @@ Matplotlib 是支持 Python 语言的开源绘图库，因为其支持丰富的�
 MATLAB，它是一种用于算法开发、数据可视化、数据分析以及数值计算的高级技术计算语言和交互式环境。
 而在 Matplotlib 中，也提供了和 MATLAB 相似的 API。
 
+matplotlib 可以视为Python 数据可视化的基准和主力，它与 NumPy 紧密集成。
+
 实验知识点
 
 兼容 MATLAB 代码风格 API
@@ -16,6 +18,14 @@ MATLAB，它是一种用于算法开发、数据可视化、数据分析以及�
 画布网格、坐标轴范围
 其他 2D 图形
 3D 图形
+
+
+里面有很多matplotlib的图形画法，可以参考。
+matplotlib 的主要资源可以在下面的网站上找到。
+matplotlib 主页当然是最好的起点：http://matplotlib.org
+matplotlib 网站上有一个展厅,其中有许多实用示例：http://matplotlib.org/gallery.html
+这里可以找到一个 2D绘图的教程：http://matplotlib.org/users/pyplot_tutorial.html
+这里是 3D绘图教程：http://matplotlib.org/mpl_toolkits/mplot3d/tutorial.html
 
 
 #-*- coding: utf-8 -*-
